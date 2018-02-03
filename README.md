@@ -9,7 +9,7 @@ This is one of my inital project in machine learning
 * Numpy 1.14.0
 * Matplotlib 2.1.0
 
-#Output
+# Output
 
 Output is a 2 month advanced prediction of stock prices.
 
