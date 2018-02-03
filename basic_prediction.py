@@ -20,7 +20,7 @@ df = df[ [ 'Adj. Open' , 'Adj. Close' , 'HL_PCT' , 'PCT_change', 'Adj. Volume'  
 
 forecast_col = ['Adj. Close']
 df.fillna(-99999, inplace= True )
-forecast_out = 30
+forecast_out = 60
 
 print ( "no of days forecasted ", forecast_out )
 
