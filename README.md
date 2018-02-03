@@ -1,6 +1,6 @@
 # Stock-Market-Predictor
 
-This gives you a prediction of price of a Stock around 2 months from date of execution.
+Application that utilizes FOREX data to learn patterns and attempt to predict the stock market.
 
 This is one of my inital project in machine learning
 
@@ -11,6 +11,6 @@ This is one of my inital project in machine learning
 
 #Output
 
-Output is a 2 month advanced prediction of stock prices
+Output is a 2 month advanced prediction of stock prices.
 
 
