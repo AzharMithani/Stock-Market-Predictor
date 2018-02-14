@@ -11,6 +11,6 @@ This is one of my inital project in machine learning
 
 # Output
 
-Output is a 2 month advanced prediction of stock prices.
+Output is a 2 month advanced prediction of stock prices with it's accuracy.
 
 
